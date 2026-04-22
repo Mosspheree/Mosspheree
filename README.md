@@ -1,6 +1,6 @@
 # Hi, I'm Mostafa 👋
 
-I build things that fly — and occasionally things that run on the ground too.
+I build things that fly and occasionally things that run on the ground too.
 
 * 🎓 **Education:** Computer Science @ The George Washington University (Presidential Scholar, '27)
 * 🌙 **Currently Building:** Spacecraft flight software at **Astrobotic** for a NASA CLPS lunar mission
