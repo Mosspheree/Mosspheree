@@ -1,4 +1,4 @@
-# Hi, I'm Mostafa 👋
+# Hi, I'm Mostafa  🚀
 
 I build things that fly and occasionally things that run on the ground too.
 
@@ -6,7 +6,7 @@ I build things that fly and occasionally things that run on the ground too.
 * 🌙 **Currently Building:** Spacecraft flight software at **Astrobotic** for a NASA CLPS lunar mission
 * 📄 **Published:** Fine-tuning lightweight language models — *EAI MobiQuitous 2025*
 
-## 🚀 Engineering Portfolio
+## Engineering Portfolio
 
 | Project | Description | Stack |
 |---|---|---|
