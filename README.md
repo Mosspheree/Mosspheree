@@ -67,8 +67,9 @@ Fine-tuning and evaluating lightweight LLMs for resource-constrained deployment.
 
 ## 📊 GitHub Stats
 
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosspheree&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosspheree&layout=compact&theme=tokyonight)
+- **Veentra**: AI Contract Review Tool (Next.js, Gemini, Supabase)
+- **ZeroGate**: Continuous Adaptive Authentication Dashboard
+- More projects on [GitHub](https://github.com/Mosspheree)
 
 ## 📫 Let's Connect
 
