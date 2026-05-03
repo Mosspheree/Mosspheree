@@ -14,6 +14,7 @@ I build things that fly and occasionally things that run on the ground too.
 | **[Porkchop Plotter](https://mosspheree.github.io/porkchop-plotter)** | Zero-dependency interplanetary launch window calculator. Lambert arc solver, Stumpff functions, Meeus ephemeris, Web Workers. | `Vanilla JS` `Web Workers` `Orbital Mechanics` |
 | **[Codemedic](https://github.com/Mosspheree/Codemedic)** | C++ compiler error diagnosis tool. Parses diagnostics via libclang, builds dependency graphs, explains errors through an LLM. | `C++` `libclang` `Python` `Groq API` |
 | **[ShopEase](https://github.com/Mosspheree/ShopEase)** | Full-stack e-commerce platform with transactional order processing, auth, and a luxury black-and-gold UI. | `Flask` `SQLAlchemy` `Jinja2` `SQLite` |
+| **[Veentra](https://veentra.vercel.app)** | AI contract review for solo attorneys & small business. Flags risky clauses, extracts deadlines, splits obligations in <1 minute. | `Next.js` `TypeScript` `Google Gemini` `Supabase` `Stripe` |
 
 ## 🛰️ Research & Publications
 
@@ -69,6 +70,7 @@ Fine-tuning and evaluating lightweight LLMs for resource-constrained deployment.
 ## GitHub Analytics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mosspheree&theme=tokyonight&hide_border=true)](https://github.com/Mosspheree)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosspheree&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mosspheree)
 
 ## Let's Connect
 
