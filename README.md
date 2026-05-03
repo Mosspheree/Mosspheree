@@ -20,7 +20,7 @@ I build things that fly and occasionally things that run on the ground too.
 **SLM-Bench: A Benchmark for Small Language Models** — *EAI MobiQuitous 2025*
 Fine-tuning and evaluating lightweight LLMs for resource-constrained deployment. NSF REU project.
 
-## 💻 Technical Stack
+## Technical Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,13 +65,13 @@ Fine-tuning and evaluating lightweight LLMs for resource-constrained deployment.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
-- **Veentra**: AI Contract Review Tool (Next.js, Gemini, Supabase)
-- **ZeroGate**: Continuous Adaptive Authentication Dashboard
-- More projects on [GitHub](https://github.com/Mosspheree)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mosspheree&theme=tokyonight&hide_border=true)](https://github.com/Mosspheree)
 
-## 📫 Let's Connect
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosspheree&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mosspheree)
+
+## Let's Connect
 
 * **LinkedIn:** [linkedin.com/in/mosshabasy](https://www.linkedin.com/in/mosshabasy/)
 * **Email:** mossphere5@gmail.com
