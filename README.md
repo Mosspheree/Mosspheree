@@ -13,7 +13,6 @@ I build things that fly and occasionally things that run on the ground too.
 | **[Kessler](https://github.com/Mosspheree/Kessler)** | Real-time 3D space debris cascade simulator with live TLE data and SGP4 propagation. GLSL-shaded Earth, sprite-based orbital mechanics. | `Three.js` `satellite.js` `GLSL` `CelesTrak` |
 | **[Porkchop Plotter](https://mosspheree.github.io/porkchop-plotter)** | Zero-dependency interplanetary launch window calculator. Lambert arc solver, Stumpff functions, Meeus ephemeris, Web Workers. | `Vanilla JS` `Web Workers` `Orbital Mechanics` |
 | **[Codemedic](https://github.com/Mosspheree/Codemedic)** | C++ compiler error diagnosis tool. Parses diagnostics via libclang, builds dependency graphs, explains errors through an LLM. | `C++` `libclang` `Python` `Groq API` |
-| **[ShopEase](https://github.com/Mosspheree/ShopEase)** | Full-stack e-commerce platform with transactional order processing, auth, and a luxury black-and-gold UI. | `Flask` `SQLAlchemy` `Jinja2` `SQLite` |
 | **[Veentra](https://veentra.vercel.app)** | AI contract review for solo attorneys & small business. Flags risky clauses, extracts deadlines, splits obligations in <1 minute. | `Next.js` `TypeScript` `Google Gemini` `Supabase` `Stripe` |
 | **[ZeroGate](https://github.com/Mosspheree/ZeroGate)** | Continuous Adaptive Authentication (CAA) security dashboard. Real-time risk engine evaluates login signals (IP, device, behavior), enforces step-up or revocation. Live Firestore telemetry. | `React 19` `Node.js` `Firebase` `Firestore` `Vercel` |
 
